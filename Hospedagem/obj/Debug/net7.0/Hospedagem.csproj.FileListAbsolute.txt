@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\bin\Debug\net7.0\Hospedagem.exe
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\bin\Debug\net7.0\Hospedagem.deps.json
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\bin\Debug\net7.0\Hospedagem.runtimeconfig.json
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\bin\Debug\net7.0\Hospedagem.dll
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\bin\Debug\net7.0\Hospedagem.pdb
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\obj\Debug\net7.0\Hospedagem.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\obj\Debug\net7.0\Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\obj\Debug\net7.0\Hospedagem.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\obj\Debug\net7.0\Hospedagem.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\obj\Debug\net7.0\Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\obj\Debug\net7.0\Hospedagem.dll
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\obj\Debug\net7.0\refint\Hospedagem.dll
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\obj\Debug\net7.0\Hospedagem.pdb
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\obj\Debug\net7.0\Hospedagem.genruntimeconfig.cache
+C:\Users\Camilla\source\repos\Hospedagem\Hospedagem\obj\Debug\net7.0\ref\Hospedagem.dll
